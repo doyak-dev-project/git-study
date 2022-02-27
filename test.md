@@ -3,6 +3,7 @@
 #### .....피..피쳐!
 
 ## test 브랜치...를 만들어 보았습두 
+1. 내 밑에다가 합치면 될 거 같아
 
 ### 충돌!! 나라
     pivot = start #피벗값 설정:첫번째원소
@@ -12,3 +13,5 @@
         while left <= end and array[left] <= array[pivot]: #왼쪽부터 피벗보다 큰값 찾을때까지 +1
             left +=1
         while right > start and array[right] >= array[pivot]:  #오른쪽부터 피벗보다 작은 값 찾을때까지 -1
+
+충돌 해결! -> 저장 -> 커밋
