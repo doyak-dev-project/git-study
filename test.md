@@ -15,3 +15,6 @@
         while right > start and array[right] >= array[pivot]:  #오른쪽부터 피벗보다 작은 값 찾을때까지 -1
 
 충돌 해결! -> 저장 -> 커밋
+
+
+???? 피쳐에서 수정을 함?? 
